@@ -1,0 +1,25 @@
+#entrone {
+    top: 90%;
+    color: rgb(29, 22, 22);
+    font-size: xx-large;
+    font-weight: 700;
+}
+
+#sallon {
+    width: 196vh;
+    height: 600px;
+}
+
+.a {
+    text-decoration: none;
+}
+
+.top-nav {
+    background: rgba(0, 139, 139, 0.822);
+}
+.nav-content {
+    margin: auto;
+    font-size: 1.5em;
+    color: darkgrey;
+    padding: 10px;
+}
